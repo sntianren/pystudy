@@ -1,1 +1,3 @@
-./django/
+core_python_programming/__pycache__/*
+python_tutorial/__pycache__/*
+AByteOfPython/__pycache__/*
