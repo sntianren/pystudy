@@ -1,6 +1,9 @@
-core_python_programming/__pycache__/*
-core_python_programming/*.pyc
-python_tutorial/__pycache__/*
-python_tutorial/*.pyc
-AByteOfPython/__pycache__/*
-AByteOfPython/*.pyc
+*.pyc
+*~
+*__pycache__*
+#core_python_programming/__pycache__/*
+#core_python_programming/*.pyc
+#python_tutorial/__pycache__/*
+#python_tutorial/*.pyc
+#AByteOfPython/__pycache__/*
+#AByteOfPython/*.pyc
